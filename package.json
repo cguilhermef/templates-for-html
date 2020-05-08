@@ -1,0 +1,13 @@
+{
+  "name": "templates-for-pdf",
+  "version": "0.1.0",
+  "description": "Scaffolding para criação de templates em HTML para uso em relatórios PDF",
+  "main": "index.js",
+  "repository": "https://github.com/cguilhermef/templates-for-html.git",
+  "author": "Christian G Fritsch <frontend.guilherme@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
